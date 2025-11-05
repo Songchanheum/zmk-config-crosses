@@ -132,7 +132,6 @@
 &trans  &trans  &mkp LCLK  &trans  &mkp RCLK    &trans  &trans  &trans  &trans  &trans
                 &trans     &trans  &trans       &trans  &trans  &trans
             >;
-trackball-bindings = <&tsl>;
         };
     };
 };
